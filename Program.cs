@@ -1,6 +1,5 @@
 // Program to implement a double ended queue.
 // This queue can enqueue as well as dequeue elements from both the ends and also known as deque.
-// ------------------------------------------------------------------------------------------------
 using System;
 
 namespace Training {
