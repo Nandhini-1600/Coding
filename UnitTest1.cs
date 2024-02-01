@@ -1,8 +1,3 @@
-// --------------------------------------------------------------------------------------------
-// Training ~ A training program for interns at Metamation, Batch - July 2023
-// Copyright (c) Metamation India.
-// ------------------------------------------------------------------------
-// Program.cs
 // MYLIST<T>
 // Implement a custom MyList<T> class using arrays as the underlying data structure.
 // --------------------------------------------------------------------------------------------
