@@ -1,8 +1,3 @@
-// --------------------------------------------------------------------------------------------
-// Training ~ A training program for interns at Metamation, Batch - July 2023
-// Copyright (c) Metamation India.
-// ------------------------------------------------------------------------
-// UnitTest1.cs
 // QUEUE<T>
 // Implement a Queue<T> using arrays as the underlying data structure. The queue should grow the array when needed (like the TStack above does).
 // If the array does not have to be grown, both Enqueue and Dequeue should be constant time (O(1)) operations. Throw exceptions as needed.
