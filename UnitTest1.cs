@@ -1,8 +1,3 @@
-// --------------------------------------------------------------------------------------------
-// Training ~ A training program for interns at Metamation, Batch - July 2023
-// Copyright (c) Metamation India.
-// ------------------------------------------------------------------------
-// UnitTest1.cs
 // STACK<T>
 // Implement a Stack<T> class using arrays as the underlying data structure. The Stack<T> should start with an initial capacity of 4 and double its capacity when needed.
 // Use the template shown below for implementation. Throw exceptions when necessary.
