@@ -1,8 +1,3 @@
-// ------------------------------------------------------------------------------------------------
-// Training ~ A training program for interns at Metamation, Batch - July 2023.
-// Copyright (c) Metamation India.
-// ----------------------------------------------------------------------------
-// A10.2
 // Test cases for the implementation of double ended queue.
 // This queue can enqueue as well as dequeue elements from both the ends.
 // ------------------------------------------------------------------------------------------------
